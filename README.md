@@ -60,6 +60,7 @@
 ## 링크(바로가기)
 [텍스트](URL)  
 [네이버](https://www.naver.com/)
+<a href="https://www.naver.com" target="_blank">새탭 열고 이동</a>
 
 
 
