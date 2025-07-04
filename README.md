@@ -62,8 +62,8 @@
 [네이버](https://www.naver.com/)
 <a href="https://www.naver.com" target="_blank">새탭 열고 이동</a>
 
-# 이미지
-
+# 이미지  . = 현재 위치, / = 폴더, img src = 경로, width = 너비, height = 높이
+<img src="./test.jpg" width="300" height="200" alt="" />
 
 # 인용문
 > 잠온다
@@ -77,8 +77,17 @@
 |ㅋㅋ|ㅋㅋㄹㅃㅃ|ZZZ|
 
 
-# 코드블럭
-
+# 코드블럭(삼중백틱)
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+  <h1>Hello World</h1>
+ </body>
+</html>  
+```
 
 
 
